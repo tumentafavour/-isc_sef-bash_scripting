@@ -1,0 +1,2 @@
+-script.sh tells the system to execute using bash
+-./script.sh is used for direct execution
