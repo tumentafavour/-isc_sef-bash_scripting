@@ -1,0 +1,6 @@
+-Read question carefully.
+-Identify the task.
+-choose commands to use.
+-write the code.
+-Test and refine.
+-start with the easiest question to the most difficult.
