@@ -1,1 +1,2 @@
-repository for bash scripting.
+
+Repository for bash scripting
